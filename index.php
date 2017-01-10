@@ -17,6 +17,10 @@
 		</p>
 		<br>
 		<h2>Personal</h2>
+		<p>People tell me that I look like Abbot from Abbot & Costello.</p>
+		<img src="images/220px-Abbott_and_Costello_circa_1940s.JPG">
+		<p>I have also gotten Yakko from the Animaniacs</p>
+		<img src="images/Download_(1).jpg">
 		<p>I've lived in Albuquerque for about 20 years. Not wifed up yet, but I have two dogs that like to cuddle so that will suffice for now. I like to play volleyball and softball to stay active and for fun.</p>
 		<img src="images/15800238_1487913697902781_8730589775209769033_o.jpg">
 		<br><b>This is a picture of my volleyball team that took 2nd place in a volleyball tournament last week!</b>
